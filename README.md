@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Kiran</h1>
 <h3 align="center">I've always had a passion for automation and programming</h3>
-I'm a Chemical Engineering Graduate from UWaterloo. Recently I decided to dive head first into Software Engineering. Take a look at my <a href="https://kiransahmbi.github.io">portfolio website!</a>
+I'm a Chemical Engineering Graduate from UWaterloo. Recently I decided to dive head first into Development, and completed a Software Engineering Diploma at Centennial College. Take a look at my <a href="https://kiransahmbi.github.io">portfolio website!</a>
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
@@ -32,15 +32,22 @@ I'm a Chemical Engineering Graduate from UWaterloo. Recently I decided to dive h
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
         </a>
+        <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+        </a>
+        <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+        </a> 
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
         </a> 
-        <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-        </a> 
+        <a href="https://angular.io" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/>
+        </a>
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
         </a> 
+        
       </td>
     </tr>
     <tr>
@@ -51,9 +58,15 @@ I'm a Chemical Engineering Graduate from UWaterloo. Recently I decided to dive h
         </a> 
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-        </a> 
+        </a>
         <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
           <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
+        </a>
+        <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
+          <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
+        </a>
+        <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
         </a> 
       </td>
     </tr>
@@ -63,6 +76,9 @@ I'm a Chemical Engineering Graduate from UWaterloo. Recently I decided to dive h
         <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
         </a> 
+         <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+         </a> 
       </td>
     </tr>
     <tr>
@@ -76,6 +92,17 @@ I'm a Chemical Engineering Graduate from UWaterloo. Recently I decided to dive h
         </a>
         <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
+        </a> 
+      </td>
+    </tr>
+    <tr>
+      <td><h4>Testing Tools</h4></td>
+      <td>
+        <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> 
+        </a>
+        <a href="https://mochajs.org" target="_blank" rel="noreferrer"> 
+          <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> 
         </a> 
       </td>
     </tr>
@@ -93,7 +120,8 @@ I'm a Chemical Engineering Graduate from UWaterloo. Recently I decided to dive h
         </a> 
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-        </a> 
+        </a>
+        
       </td>
     </tr>
   </table>
